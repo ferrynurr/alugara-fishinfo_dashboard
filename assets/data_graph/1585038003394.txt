@@ -1,0 +1,1 @@
+[{"name":"ert (cv.ikan)<br>Rp. 6.445.755","y":6445755},{"name":"lupa (PT. UJI COBA)<br>Rp. 44.554","y":44554},{"name":"MANCING (pt.ferry aja)<br>Rp. 20.000.000","y":20000000},{"name":"TEST1 (pt.ferry)<br>Rp. 1.000","y":1000}]

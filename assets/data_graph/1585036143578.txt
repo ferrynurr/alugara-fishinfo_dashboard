@@ -1,0 +1,1 @@
+[{"name":"PT.COBA (FROZEN CHUM SALMON)<br>Nilai (USD) : 250","y":250},{"name":"PT.TEST (FROZEN ALBACORE)<br>Nilai (USD) : 360","y":360}]

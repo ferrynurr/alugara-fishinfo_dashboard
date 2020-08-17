@@ -1,0 +1,1 @@
+[{"name":"Layang (Kabupaten Madiun)<br>1.996 Kg","y":1996},{"name":"Lele (Kabupaten Madiun)<br>2.000 Kg","y":2000}]

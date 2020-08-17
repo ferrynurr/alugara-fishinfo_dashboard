@@ -1,0 +1,1 @@
+[{"name":"Kabupaten Blitar<br>(2020)<br>5.811.816 /kg","y":5811816},{"name":"Kabupaten Bojonegoro<br>(2019)<br>3.000.000 /kg","y":3000000},{"name":"Kabupaten Bondowoso<br>(2020)<br>4.439.556 /kg","y":4439556},{"name":"Kabupaten Bondowoso<br>(2020)<br>3.144.130 /kg","y":3144130},{"name":"Kabupaten Gresik<br>(2021)<br>7.658.319 /kg","y":7658319}]

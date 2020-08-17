@@ -1,0 +1,1 @@
+[{"name":"Kabupaten Blitar<br>(2020)<br>25 Kg","y":24.78},{"name":"Kabupaten Bojonegoro<br>(2019)<br>10 Kg","y":9.99},{"name":"Kabupaten Bondowoso<br>(2020)<br>10 Kg","y":9.99},{"name":"Kabupaten Bondowoso<br>(2020)<br>10 Kg","y":9.99},{"name":"Kabupaten Gresik<br>(2021)<br>62 Kg","y":62.26}]
